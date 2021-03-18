@@ -16,15 +16,15 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/CallsMusic"
+                        "⚒ Source code", url="https://t.me/republik_telegram"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/callsmusicchat"
+                        "💬 Group", url="https://t.me/republik_telegram"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/callsmusic"
+                        "Channel 🔈", url="https://t.me/republik_telegram"
                     )
                 ]
             ]
